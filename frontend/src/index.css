@@ -1,0 +1,16 @@
+﻿@import "tailwindcss";
+
+:root {
+  --primary-color: #2c1d11;
+  --accent-color: #c5a880;
+  --bg-cream: #fbf9f5;
+  --text-main: #3d3d3d;
+}
+
+body {
+  background-color: var(--bg-cream);
+  color: var(--text-main);
+  font-family: 'Georgia', serif;
+  margin: 0;
+  padding: 0;
+}
